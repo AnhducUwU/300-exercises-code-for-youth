@@ -1,1 +1,1 @@
-# 300-coding-lessons
+300 coding lessons for children
