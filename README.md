@@ -1,1 +1,1 @@
-300 exercies code for youth
+300 exercises code for youth
